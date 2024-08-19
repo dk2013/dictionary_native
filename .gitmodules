@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/dk2013/dictionary_native_client.git
